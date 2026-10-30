@@ -1,0 +1,6 @@
+{
+  "name": "EffectCraft",
+  "description": "EffectCraft for Android - Professional Motion Graphics, Visual Effects & Compositing Studio (compatible with Samsung Galaxy Tab S10+ and ARM64 devices)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
